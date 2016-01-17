@@ -1,0 +1,63 @@
+MANIFEST
+.commit
+.DS_Store
+
+# python files
+*.py[cod]
+
+# C extensions
+*.so
+
+# intellij files
+.idea
+*.xml
+*.iml
+
+.env
+.python-version
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+install.record
+
+# Unit test / coverage reports
+.cache
+.coverage
+.tox
+nosetests.xml
+unittest.xml
+
+# sublime
+*.sublime-workspace
+# rope
+.ropeproject
+# pycharm
+.idea/*
+# vim
+*.sw[op]
+
+.env-cache/*
+.build
+.commit
+.test.xml
+
+# autoenv
+.autoenv.zsh
+.autoenv_leave.zsh
+
+# shipit
+.shipit

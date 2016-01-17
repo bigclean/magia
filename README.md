@@ -1,0 +1,1 @@
+`Magia` is yet another pure, simple, dummy `MySQL` `ORM` Framework Toy.
